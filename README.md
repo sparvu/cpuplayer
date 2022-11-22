@@ -14,5 +14,5 @@ The cpuplayer package comes in source code, C. To compile this for your system p
   4. execute the program: cpuplayer data/1cpu.ferrari4000
   
 <div align="center">
-<img src="/docs/img/cpuplayer_help.png" height="80%" width="80%" />
+<img src="/docs/img/cpuplayer_help.png" height="50%" width="50%" />
 </div>
