@@ -4,6 +4,10 @@
 
 Performance Data Visualization of Multiprocessor Systems.
 
+<div align="center">
+<img src="/docs/img/cpuplayer.gif" height="50%" width="50%" />
+</div>
+
 ## Build
 
 The cpuplayer package comes in source code, C. To compile this for your system please execute the followings:
