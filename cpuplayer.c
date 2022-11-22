@@ -1,6 +1,6 @@
 /*
  * Copyright (c) 2014 PerfDynamics. All rights reserved.
- * Copyright (c) 2014 Stefan Parvu (www.systemdatarecorder.org)
+ * Copyright (c) 2022 Stefan Parvu. All rights reserved.
  *
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU General Public License
