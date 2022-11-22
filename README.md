@@ -2,7 +2,19 @@
 
 ## Description
 
-Performance Data Visualization of Multiprocessor Systems.
+Performance Data Visualization of Multiprocessor Systems. cpuplayer is a stand-alone version of [Barry2D](http://www.perfdynamics.com/Tools/tools.html#tth_sEc1) , that provides animation for visually exploring performance issues based on multiprocessor utilization data. Features:
+
+- Stand-alone video playback of historical multiprocessor utilization data
+
+- Data format can be as simple as CSV
+
+- Toggled display of date and time information
+
+- Toggled display of multicore IDs
+
+- Toggled display of USR, SYS and IDL axes
+
+- Full color performance zones
 
 <div align="center">
 <img src="/docs/img/cpuplayer.gif" height="40%" width="40%" />
