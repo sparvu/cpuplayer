@@ -5,7 +5,7 @@
 Performance Data Visualization of Multiprocessor Systems.
 
 <div align="center">
-<img src="/docs/img/cpuplayer.gif" height="50%" width="50%" />
+<img src="/docs/img/cpuplayer.gif" height="40%" width="40%" />
 </div>
 
 ## Build
