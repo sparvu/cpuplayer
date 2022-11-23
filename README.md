@@ -38,6 +38,23 @@ The cpuplayer package comes in source code, C. To compile this for your system p
 <img src="/docs/img/cpuplayer_help.png" height="50%" width="50%" />
 </div>
 
+### Play historical data
+
+This will play historical data from one data file, called cpurec.T5220.noprocsets
+
+```
+$ cpuplayer data/cpurec.T5220.noprocsets
+```
+
+### Play real-time data
+
+This will run **cpurec** data recorder and pipe the results to cpuplayer directly to visualize data as soon as it is collected.
+
+```
+$ cpurec | cpuplayer 
+```
+
+
 
 ## Examples
 
