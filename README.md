@@ -66,5 +66,5 @@ Case study which shows **cpuplayer** diplaying the performance advantages of ena
 <p align="center">
   <img alt="No procsets" src="/docs/img/cpuplayer-noprocsets.gif" width="35%">
 &nbsp; &nbsp;
-  <img alt="procsets" src="/docs/img/cpuplayer-procsets.gif" width="35%">
+  <img alt="procsets" src="/docs/img/cpuplayer-procsetson.gif" width="35%">
 </p>
