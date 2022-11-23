@@ -1,4 +1,4 @@
-<img src="/docs/img/cpuplayer-logo.png" height="40%" width="40%" />
+<img src="/docs/img/cpuplayer-logo.png" height="25%" width="25%" />
 
 ## Description
 
@@ -68,9 +68,3 @@ Case study which shows **cpuplayer** diplaying the performance advantages of ena
 &nbsp; &nbsp;
   <img alt="procsets" src="/docs/img/cpuplayer-procsets.gif" width="35%">
 </p>
-
-<p align="center">
-   <b>Processor sets: OFF</b>
-  &nbsp; &nbsp;
-   <b>Processor sets: ON</b>
-</p>  
