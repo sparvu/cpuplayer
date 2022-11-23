@@ -4,15 +4,15 @@
 
 Performance Data Visualization of Multiprocessor Systems. cpuplayer is a CLI stand-alone version of [Barry2D](http://www.perfdynamics.com/Tools/tools.html#tth_sEc1) , that provides animation for visually exploring performance issues based on multiprocessor utilization data. Features:
 
-- Stand-alone video playback of historical multiprocessor utilization data
+- Stand-alone video playback of historical or real-time multiprocessor utilization data
 
-- Data format can be as simple as CSV
+- CSV data format
 
 - Toggled display of date and time information
 
 - Toggled display of multicore IDs
 
-- Toggled display of USR, SYS and IDL axes
+- Toggled display of USER, SYSTEM and IDLE axes
 
 - Full color performance zones
 
@@ -24,7 +24,7 @@ Performance Data Visualization of Multiprocessor Systems. cpuplayer is a CLI sta
 
 The cpuplayer package comes in source code, C. To compile this for your system please execute the followings:
 
-  1. export OSTYPE=SunOS or Darwin or Linux depends on your system
+  1. export OSTYPE=Darwin | Linux 
     
   2. make clean
     
@@ -37,3 +37,5 @@ The cpuplayer package comes in source code, C. To compile this for your system p
 <div align="center">
 <img src="/docs/img/cpuplayer_help.png" height="50%" width="50%" />
 </div>
+
+
