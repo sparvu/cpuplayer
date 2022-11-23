@@ -39,7 +39,9 @@ The cpuplayer package comes in source code, C. To compile this for your system p
 </div>
 
 
-## Use cases
+## Examples
 
-This shows the videos from one case study which shows CPUplayer diplaying the performance advantages of enabling processor sets in Solaris 10 for a Sybase OLTP workload running on a Sun Entreprise T5220 with up to 32 virtual processors.
+### Solaris 10 Sybase OLTP workload 
+
+Case study which shows **cpuplayer** diplaying the performance advantages of enabling processor sets in Solaris 10 for a Sybase OLTP workload running on a Sun Entreprise T5220 with up to 32 virtual processors.
 
