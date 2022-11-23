@@ -1,4 +1,4 @@
-<img src="/docs/img/cpuplayer-logo.png" height="40%" width="40%" />
+<img src="/docs/img/cpuplayer-logo.png" height="25%" width="25%" />
 
 ## Description
 
