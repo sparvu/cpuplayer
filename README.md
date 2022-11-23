@@ -62,3 +62,8 @@ $ cpurec | cpuplayer
 
 Case study which shows **cpuplayer** diplaying the performance advantages of enabling processor sets in Solaris 10 for a Sybase OLTP workload running on a Sun Entreprise T5220 with up to 32 virtual processors.
 
+<p align="center">
+  <img alt="No procsets" src="/docs/img/cpuplayer-noprocset.gif" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="procsets" src="/docs/img/cpuplayer-procset.gif" width="45%">
+</p>
