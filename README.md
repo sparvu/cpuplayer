@@ -68,3 +68,7 @@ Case study which shows **cpuplayer** diplaying the performance advantages of ena
 &nbsp; &nbsp;
   <img alt="procsets" src="/docs/img/cpuplayer-procsets.gif" width="35%">
 </p>
+
+## Future
+
+Port cpuplayer to Rust. Pause option. 
