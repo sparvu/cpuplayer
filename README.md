@@ -1,4 +1,4 @@
-<img src="/docs/img/cpuplayer-title.png" />
+<img src="/docs/img/cpuplayer-title4.png" />
 
 ## Description
 
