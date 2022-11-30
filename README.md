@@ -2,7 +2,7 @@
 
 ## Description
 
-Performance Data Visualization of Multiprocessor Systems. cpuplayer is a CLI stand-alone version of [Barry2D](http://www.perfdynamics.com/Tools/tools.html#tth_sEc1) , that provides animation for visually exploring performance issues based on multiprocessor utilization data. Features:
+Performance Data Visualization of Multiprocessor Systems. cpuplayer is a CLI stand-alone version of [Barry2D](http://www.perfdynamics.com/Tools/tools.html) , that provides animation for visually exploring performance issues based on multiprocessor utilization data. Features:
 
 - Stand-alone video capabilities to play real-time or historical utilization data
 
