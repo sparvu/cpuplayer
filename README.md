@@ -59,10 +59,10 @@ $ cpurec | cpuplayer
 The cpuplayer expects the input data via command line arguments or directly piped to it, using a simple CSV format:
 
 - timestamp: UNIX time
-- cpuid: the CPU id, integer
-- User space: User % utilization 0-100
-- Sys space: System % utilization 0-100
-- Idle: Idle % 0-100
+- cpuid: the CPU id
+- User cpu percent utilization 0-100
+- System cpu percent utilization 0-100
+- Idle state cpu percent utilization 0-100
 
 ```
 1263821686:3:8:47:45
