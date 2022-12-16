@@ -54,6 +54,27 @@ This will run **cpurec** data recorder and pipe the results to cpuplayer directl
 $ cpurec | cpuplayer 
 ```
 
+## Input Data
+
+The cpuplayer expects the input data via command line arguments or directly piped to it, using a simple CSV format:
+
+- timestamp: UNIX time
+- cpuid: the CPU id, integer
+- User space: User % utilization 0-100
+- Sys space: System % utilization 0-100
+- Idle: Idle % 0-100
+
+```
+1263821686:3:8:47:45
+1263821686:17:7:43:49
+1263821686:2:9:44:47
+1263821686:1:8:47:45
+1263821686:18:8:42:50
+1263821686:0:10:45:45
+1263821686:16:7:45:48
+1263821686:19:7:44:49
+```
+
 
 
 ## Examples
